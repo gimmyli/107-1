@@ -12,7 +12,13 @@ ttt.css:
 https://github.com/gimmyli/107-1/blob/master/week04/ttt.css
 ttt.html:
 https://github.com/gimmyli/107-1/blob/master/week04/ttt.html
+#week05
+imagegally.html
+https://github.com/gimmyli/107-1/blob/master/week05/imagegallery.html
+#week05-nav
+index.html
+https://github.com/gimmyli/107-1/blob/master/weelk05-nav/index.html
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NTQ2MjNdfQ==
+eyJoaXN0b3J5IjpbMTM0NjY3MzQ4NF19
 -->
