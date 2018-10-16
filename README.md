@@ -1,12 +1,11 @@
 #207410605李浩平
 ## Week01自我介紹
-[U](https://github.com/gimmyli/107-1/blob/master/w01/inteo.html)
+[自我介紹](https://github.com/gimmyli/107-1/blob/master/w01/inteo.html)
 ## week02
-https://github.com/gimmyli/107-1/blob/master/week02/w02/table.html
+[Pokemon圖鑑](https://github.com/gimmyli/107-1/blob/master/week02/w02/table.html)
 ## week03
-https://github.com/gimmyli/107-1/blob/master/week03/div.html
-課表:
-https://github.com/gimmyli/107-1/blob/master/week03/intor.html
+[Div.html](https://github.com/gimmyli/107-1/blob/master/week03/div.html)
+[.課表](https://github.com/gimmyli/107-1/blob/master/week03/intor.html)
 ## week04
 ttt.css:
 https://github.com/gimmyli/107-1/blob/master/week04/ttt.css
@@ -20,6 +19,6 @@ index.html
 https://github.com/gimmyli/107-1/blob/master/weelk05-nav/index.html
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzAxNTM4LDQxODk3MTQzNiwtMjEwNT
-M0NjQ1MF19
+eyJoaXN0b3J5IjpbLTgxNzA0NjI5MSw0MTg5NzE0MzYsLTIxMD
+UzNDY0NTBdfQ==
 -->
